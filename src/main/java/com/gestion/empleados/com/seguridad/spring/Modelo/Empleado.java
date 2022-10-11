@@ -1,4 +1,4 @@
-package Modelo;
+package com.gestion.empleados.com.seguridad.spring.Modelo;
 
 import javax.persistence.*;
 
